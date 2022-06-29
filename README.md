@@ -3,7 +3,7 @@
 ###### Sobre mim
 Estudo programação e estou em início de carreira. 
 
-Formada pela FATEC Mauá em Informática para Negócios. 
+Formada em Informática para Negócios. 
 
 HTML/CSS Básico. 
 
