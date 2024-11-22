@@ -1,18 +1,18 @@
-### Olá! 👋
+### Hi there! 👋
 
-###### Sobre mim
-Estudo programação e estou em início de carreira. 
+###### About me
+Entry-Level Programmer.
 
-Formada em Informática para Negócios. 
+Graduated in Business Informatics.
 
-HTML/CSS Básico. 
+Basic HTML/CSS.
 
-SQL Avançado. 
+Advanced SQL.
 
-Aprendendo Python.
+Learning Python.
 
 
-### Habilidades
+### Habilities
 
 ![HTML](https://img.shields.io/badge/-HTML-green)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
@@ -20,17 +20,17 @@ Aprendendo Python.
 ![Python](https://img.shields.io/badge/-Python-yellow)
 
 
-### Detalhes
+### Details
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanusaRodrigues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Projetos
+### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VanusaRodrigues&repo=VanusaRodrigues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Linguagens de Programação
+### Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanusaRodrigues&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
