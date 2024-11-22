@@ -33,12 +33,12 @@ Learning Python.
 ### Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanusaRodrigues&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatos
+### Contact
 
-[Instagram](https://www.instagram.com/vanusa___rodrigues/)
+[Instagram](https://www.instagram.com/vrr.servicosdigitais/)
  
  
  
-##### Créditos
-<h6>Ferramentas utilizadas na construção deste ReadMe disponibilizadas por: 
+##### Credits
+<h6>Tools used in the creation of this ReadMe provided by:
 https://github.com/anuraghazra/github-readme-stats/)</h6>
