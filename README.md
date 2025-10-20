@@ -1,16 +1,19 @@
 ### Hi there! 👋
 
 ###### About me
-Entry-Level Programmer.
+Programmer.
 
 Graduated in Business Informatics.
 
-Basic HTML/CSS.
+HTML/CSS.
 
-Advanced SQL.
+SQL.
 
-Learning Python.
+Python.
 
+Data Analytics.
+
+Data Science.
 
 ### Habilities
 
